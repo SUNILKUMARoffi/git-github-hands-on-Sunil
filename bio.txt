@@ -1,0 +1,2 @@
+Education B.E CSE
+Skills: Git,GitHub,Python
