@@ -3,3 +3,4 @@ I love learning Git.
 This is my first Git project.
 I want to became a DevOps Engineer
 Git is one of the most powerful tool.
+This is git and github task part 4 conflict handling
